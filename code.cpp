@@ -8,8 +8,8 @@ int main(){
 
 	cout << "Hola Mundo(editado)" << endl;
 	cout << "No da conflicto";
-	cout << "Solucionado";
-	cout << "Nel";
+	cout << "Punto referencia";
+	cout << "Cambio local";
 
 return 0;	
 }
