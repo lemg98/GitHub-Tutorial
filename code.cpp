@@ -8,6 +8,7 @@ int main(){
 
 	cout << "Nueva rama ";
 	cout << "ok";
+	cout << "remoto";
 
 return 0;	
 }
