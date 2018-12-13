@@ -7,9 +7,9 @@ int main(){
 	ios::sync_with_stdio(0);
 
 	cout << "Hola Mundo(editado)" << endl;
-	cout << "Cambio remoto";
-	cout << "Punto de referencia";
 	
+	cout << "Punto de referencia";
+	cout << "Cambio local";
 
 return 0;	
 }
