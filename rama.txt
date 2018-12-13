@@ -1,0 +1,2 @@
+git checkout -t origin/rama
+git push -u origin rama
