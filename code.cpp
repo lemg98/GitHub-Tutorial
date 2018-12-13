@@ -6,7 +6,7 @@ int main(){
 
 	ios::sync_with_stdio(0);
 
-	cout << "Hola mundo(editado)" << endl;
+	cout << "Hola Mundo" << endl;
 
 
 return 0;	
