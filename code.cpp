@@ -8,7 +8,7 @@ int main(){
 
 	cout << "Hola Mundo(editado)" << endl;
 	cout << "No da conflicto";
-	cout << "Solucionado";
+	cout << "Punto de referencia";
 	cout << "Nel";
 
 return 0;	
