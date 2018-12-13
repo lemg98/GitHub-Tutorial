@@ -8,6 +8,7 @@ int main(){
 
 	cout << "Hola Mundo(editado)" << endl;
 	cout << "Ok";
+	cout << "Solucionado";
 
 return 0;	
 }
